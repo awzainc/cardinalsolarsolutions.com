@@ -1,30 +1,23 @@
 [
   {
-    "title": "We create timeless visual identities for modern brands.",
-    "content": "<strong>Great companies are built on their ability to adapt and grow.</strong> We create brands that will adapt and flourish no matter where the market takes you.",
+    "title": "Residential Solar Installations",
+    "content": "<strong>High‑efficiency panels and professional installation.</strong>",
     "cta": "Call us about branding",
-    "image": "/content-images/blackspike-wallpaper-01.avif",
+    "image": "/content-images/solar-tech-0.jpg",
     "image_alt": ""
   },
   {
-    "title": "We design websites that drive conversions and delight users.",
-    "content": "<strong>Experts in imagining future interfaces and experiences.</strong> From UX to creative to analytics, we are there every step of the way.",
-    "cta": "Book a website review call",
-    "image": "/content-images/blackspike-wallpaper-02.avif",
+    "title": "Financing & Incentives Guidance",
+    "content": "<strong>Help navigating tax credits, SRECs, and rebates.</strong>",
+    "cta": "Schedule a free consultation",
+    "image": "/content-images/in-home-consultation-0.jpg",
     "image_alt": ""
   },
   {
-    "title": "Design across all dimensions",
-    "content": "<strong>Outstanding 3D design and concepts.</strong> We provide top-of-the-line 3D modelling services delivered by our skilled team of 3D artists.",
-    "cta": "Our 3D Services",
-    "image": "/content-images/blackspike-wallpaper-03.avif",
-    "image_alt": ""
-  },
-  {
-    "title": "Apps for all devices and seasons",
-    "content": "<strong>We help companies supercharge their apps by providing world-class, effective design.</strong> Best practice design processes for your products",
-    "cta": "Arrange an app demo",
-    "image": "/content-images/blackspike-wallpaper-04.avif",
+    "title": "Maintenance & Support",
+    "content": "<strong>Long-term service backed by Freedom Forever’s 25 year production guarantee</strong>",
+    "cta": "Get Help",
+    "image": "/content-images/freedom-forever-truck-0.jpg",
     "image_alt": ""
   }
 ]
