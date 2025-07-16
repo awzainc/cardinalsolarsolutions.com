@@ -1,0 +1,23 @@
+---
+
+import Check from '../assets/theme-images/icon-check.svg'
+import Cube from '../assets/theme-images/icon-cube.svg'
+import CubeOutline from '../assets/theme-images/icon-cube-outline.svg'
+
+const { title, authorized_dealer } = Astro.props
+
+---
+
+<section class="bs-container bs-mt-lg" id="about">
+
+  <!-- Header -->
+  { title && <h2 class="bs-h2 text-left">{ title }</h2>}
+
+  <!-- Dealer banner  -->
+  <img src={ authorized_dealer.image } alt={ authorized_dealer.image_alt } class="mt-4 self-start max-w-[312.5px] md:max-w-[437.5px] lg:max-w-[562.5px]" />
+
+  <!-- Dealer copy  -->
+  <p class="bs-lead mt-8 text-left" set:html={ authorized_dealer.copy }></p>
+
+</section>
+
