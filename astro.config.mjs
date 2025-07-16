@@ -3,6 +3,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   site: 'https://cardinalsolarsolutions.com/',
+  base: '/',
   vite: {
     plugins: [tailwindcss()]
   },
