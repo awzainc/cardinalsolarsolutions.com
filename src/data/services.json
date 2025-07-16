@@ -1,23 +1,30 @@
 [
   {
     "title": "Residential Solar Installations",
-    "content": "<strong>High‑efficiency panels and professional installation.</strong>",
-    "cta": "Call us about branding",
-    "image": "/content-images/solar-tech-0.jpg",
+    "content": "<strong>Expert solar panel installation services for your home.</strong> ",
+    "cta": "Contact Sales",
+    "image": "/content-images/solar-tech-0.avif",
     "image_alt": ""
   },
   {
     "title": "Financing & Incentives Guidance",
     "content": "<strong>Help navigating tax credits, SRECs, and rebates.</strong>",
-    "cta": "Schedule a free consultation",
-    "image": "/content-images/in-home-consultation-0.jpg",
+    "cta": "Contact Sales",
+    "image": "/content-images/in-home-consultation-0.avif",
     "image_alt": ""
   },
   {
     "title": "Maintenance & Support",
     "content": "<strong>Long-term service backed by Freedom Forever’s 25 year production guarantee</strong>",
-    "cta": "Get Help",
-    "image": "/content-images/freedom-forever-truck-0.jpg",
+    "cta": "Get Support",
+    "image": "/content-images/freedom-forever-truck-0.avif",
+    "image_alt": ""
+  },
+    {
+    "title": "Energy Storage",
+    "content": "<strong>Store solar energy for nighttime use or backup during outages.</strong>",
+    "cta": "Contact Sales",
+    "image": "/content-images/tesla-battery-storage-0.avif",
     "image_alt": ""
   }
 ]
