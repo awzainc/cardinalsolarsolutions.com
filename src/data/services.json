@@ -3,6 +3,7 @@
     "title": "Residential Solar Installations",
     "content": "<strong>Expert solar panel installation services for your home.</strong> ",
     "cta": "Contact Sales",
+    "cta_action": "demo.showModal()",
     "image": "/content-images/solar-tech-0.avif",
     "image_alt": ""
   },
@@ -10,6 +11,7 @@
     "title": "Financing & Incentives Guidance",
     "content": "<strong>Help navigating tax credits, SRECs, and rebates.</strong>",
     "cta": "Contact Sales",
+    "cta_action": "demo.showModal()",
     "image": "/content-images/in-home-consultation-0.avif",
     "image_alt": ""
   },
@@ -17,6 +19,7 @@
     "title": "Maintenance & Support",
     "content": "<strong>Long-term service backed by Freedom Forever’s 25 year production guarantee</strong>",
     "cta": "Get Support",
+    "cta_action": "window.location.href='tel:+18006851850'",
     "image": "/content-images/freedom-forever-truck-0.avif",
     "image_alt": ""
   },
@@ -24,6 +27,7 @@
     "title": "Energy Storage",
     "content": "<strong>Store solar energy for nighttime use or backup during outages.</strong>",
     "cta": "Contact Sales",
+    "cta_action": "demo.showModal()",
     "image": "/content-images/tesla-battery-storage-0.avif",
     "image_alt": ""
   }
